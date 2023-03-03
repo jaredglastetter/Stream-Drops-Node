@@ -1,7 +1,7 @@
 # Stream-Drops-Node
 Empowering Streamers, Engaging Fans: Simplifying NFTs with Walletless Onboarding and Flow Blockchain
 
-#How it works
+# How it works
 
 We have developed a new way for Twitch streamers to utilize their channel points in order to provide even more value to their loyal communities. Streamers can now create customized collectable art pieces, give away exclusive merchandise, or even dream up unique and personalized services that viewers can redeem using their accumulated channel points. Examples of such services could include shoutouts, coaching, or other personalized experiences.
 
