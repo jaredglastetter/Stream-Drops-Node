@@ -14,6 +14,6 @@ Therefore, when a user signs in to our app for the first time to view their rewa
 
 # User Journey - App Custody (Hybrid Custody TBD)
 
-https://i.gyazo.com/a03afcc584f1870e034f5c1c82cddb5c.png
+![image](https://i.gyazo.com/a03afcc584f1870e034f5c1c82cddb5c.png)
 
 To start, we are launching the app with in app custody. We will handle all web3 interactions behind the scenes to ensure that the user's first experience functions just like the other apps they user every day. Once the user is comfortable with upgrading to user custody, we will allow the user to export their rewards to their own wallet and be able to plug it in to our app.
